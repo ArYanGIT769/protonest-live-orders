@@ -1,35 +1,35 @@
 # PROTONEST — Live Engineering Orders
 
-[Live Website](https://protonest-live-orders.netlify.app/)
+A web application prototype for managing engineering product orders, customer accounts, and admin-side order workflows.
 
-## Overview
+## Live Demo
+https://protonest-live-orders.netlify.app/
 
-PROTONEST is a digital engineering-services platform for handling customer enquiries, technical-file submissions, quotations, and live production-order updates from one place.
+## Features
+- Browse engineering products
+- Customer account and order access
+- Admin dashboard
+- Responsive interface
+- Static deployment-ready build
 
-## Key Features
+## Run locally
 
-- Customer sign-up and secure account access
-- Engineering-service selection and technical-file submission
-- Order quotation and production-status tracking
-- Customer dashboard for orders and updates
-- Admin dashboard for managing submitted orders
-- Contact workflow through email and WhatsApp
+1. Download or clone this repository.
+2. Open the `site` folder in Command Prompt.
+3. Run:
 
-## Technology
+   py -m http.server 8000
 
-- Next.js static web export
-- Supabase for authentication and database workflows
+4. Open http://localhost:8000 in your browser.
+
+## Project Structure
+
+- `site/` — deployed static website files
+- `PROTONEST-current-static-export.zip` — backup of the current static build
+- `PROTONEST-SUPABASE-SETUP.sql` — database setup reference
+
+## Tech Used
+- Next.js static export
 - HTML, CSS and JavaScript
-- Netlify deployment
-
-## Repository Structure
-
-- `site/` — deployed static website build, including homepage, customer account, admin pages, CSS and JavaScript assets
-- `PROTONEST-SUPABASE-SETUP.sql` — database schema, policies and setup
-- `PROTONEST-current-static-export.zip` — backup of the deployed website files
-
-## Run Locally
-
-```bash
-cd site
-python -m http.server 8000
+- Netlify
+- Supabase
