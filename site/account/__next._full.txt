@@ -14,4 +14,4 @@ e:[]
 a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 f:I[27201,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"IconMark"]
 7:null
-c:[["$","title","0",{"children":"PROTONEST — Live Engineering Orders"}],["$","meta","1",{"name":"description","content":"Submit engineering requirements, receive an approved quotation, pay securely and track your PROTONEST order live."}],["$","link","2",{"rel":"shortcut icon","href":"/favicon.svg"}],["$","link","3",{"rel":"icon","href":"/favicon.svg"}],["$","$Lf","4",{}]]
+c:[["$","title","0",{"children":"PROTONEST — Live Engineering Orders"}],["$","meta","1",{"name":"description","content":"Submit engineering requirements, receive an approved quotation, pay securely and track your PROTONEST order live."}],["$","link","2",{"rel":"shortcut icon","href":"/favicon.png"}],["$","link","3",{"rel":"icon","href":"/favicon.png"}],["$","$Lf","4",{}]]
